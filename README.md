@@ -26,14 +26,6 @@ This project showcases:
 
 ---
 
-## Project Structure
-pydantic-patient-model/
-│
-├── models/ # Data models
-├── examples/ # Demo usage
-├── requirements.txt
-└── README.md
-
-🛠️ Tech Stack
-Python
-Pydantic
+## Tech Stack
+- Python
+- Pydantic
