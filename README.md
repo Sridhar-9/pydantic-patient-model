@@ -29,3 +29,5 @@ This project showcases:
 ## Tech Stack
 - Python
 - Pydantic
+
+This project was built as part of my learning journey in backend and data validation systems.
