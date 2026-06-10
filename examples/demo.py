@@ -15,7 +15,7 @@ def run_demo():
         weight=70.0,
         height=1.72,
         address=address,
-        contact_details={"Discord": "raioku"}
+        contact_details={"Discord": "L&P"}
     )
 
     print("Patient:", patient.name)
